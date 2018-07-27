@@ -43,7 +43,7 @@ For a long time I have thought about collecting the links to the online material
 
 * [Generate Kubernetes YAML Right From Your App Code](https://dzone.com/articles/yaml-less-kubernetes)
   * A new programming language, Ballerina, can compile into Docker and Kubernetes artifacts, letting you generate YAML from your microservices app code. 
-  * Tags: Docker, Kubernetes, YAML, Ballerina 
+  * Tags: Docker, Kubernetes, YAML, Ballerina, IaC
 
 * [Title](link)
   * Description
