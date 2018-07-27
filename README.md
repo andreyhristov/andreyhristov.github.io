@@ -10,6 +10,18 @@ For a long time I have thought about collecting the links to the online material
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
 
+## 2018.07.28
+
+* [Why the New V8 is so Damn Fast](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast/)
+  * Thorough explanation about recent improvements in V8
+  * Tags: V8, Node.js, JavaScript, Performance
+
+* [Title](link)
+  * Description
+  * Tags: 
+
+
+
 ## 2018.07.26
 * [A container networking overview](https://jvns.ca/blog/2016/12/22/container-networking/)
   * Julia Evans on Container Networking
@@ -118,12 +130,3 @@ For a long time I have thought about collecting the links to the online material
 * [The Mon-ifesto Part 3: Alert Response and Post-Mortem](https://medium.com/capital-one-developers/the-mon-ifesto-part-3-alert-response-and-post-mortem-cd227c684ac0)
   * A 3-Part Guide to Better Application Monitoring. Describes the FIR (Formal Incident Response) protocol
   * Tags: FIR, Incident Manager, Incident Reporter, Bridge Runner, Primary Engineer, Standby Engineer
-
-* [Title](link)
-  * Description
-  * Tags: 
-
-* [Title](link)
-  * Description
-  * Tags: 
-
