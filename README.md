@@ -10,7 +10,7 @@ For a long time I have thought about collecting the links to the online material
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
 
-## 2018.07.28
+## 2018.07.27
 
 * [Why the New V8 is so Damn Fast](https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast/)
   * Thorough explanation about recent improvements in V8
