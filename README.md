@@ -16,6 +16,16 @@ For a long time I have thought about collecting the links to the online material
   * Thorough explanation about recent improvements in V8
   * Tags: V8, Node.js, JavaScript, Performance
 
+
+* [How to manage any kind of secret with AWS Secrets Manager](https://sanderknape.com/2018/07/manage-custom-secrets-aws-secrets-manager/)
+  * A tutorial for rotating credentials on AWS. Example is with MongoDB
+  * Tags: AWS, Secrets, Rotation
+
+* [Title](link)
+  * Description
+  * Tags: 
+
+
 * [Title](link)
   * Description
   * Tags: 
