@@ -30,9 +30,14 @@ For a long time I have thought about collecting the links to the online material
   * How to move from microservices to a monolith when the burden of single-tenancy becomes way too big and costs too many resources to support
   * Tags: Microservices, Monolith
 
+* [GitOps: A Path to More Self-service IT](https://queue.acm.org/detail.cfm?ref=rss&id=3237207)
+  * Long story short - use Git/VCS to store the configuration of your infrastructure. In other words use IaC - Infrastructure as Code and embed it in the development flow.
+  * Tags: Git, IaC
+
 * [Title](link)
   * Description
   * Tags: 
+
 
 * [Title](link)
   * Description
