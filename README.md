@@ -21,10 +21,14 @@ For a long time I have thought about collecting the links to the online material
   * A tutorial for rotating credentials on AWS. Example is with MongoDB
   * Tags: AWS, Secrets, Rotation
 
+* [Google Cloud Platform - The Good, Bad, and Ugly (It's Mostly Good)](https://www.deps.co/blog/google-cloud-platform-good-bad-ugly/)
+  * Diferentiated description of GCP - features, pricing, etc.
+  * Tags: GCP
+
+
 * [Title](link)
   * Description
   * Tags: 
-
 
 * [Title](link)
   * Description
