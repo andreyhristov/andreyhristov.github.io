@@ -7,7 +7,7 @@ For a long time I have thought about collecting the links to the online material
 * [Docker Curated - All things Docker and containers](https://docker-software-inc.scoop.it/t/docker-by-docker)
 * [The New Stack - All things Cloud, Docker, Kubernetes, Containers, Distributed Computing, Microservices ](https://thenewstack.io/)
 * [The Next Web - IT related news](https://thenextweb.com/)
-* [DZone - AI, Agile, BigData, Cloud, DevOps, IoT, Microservices, Open Source, etc.](https://dzone.com/)
+* [DZone - All things AI, Agile, BigData, Cloud, DevOps, IoT, Microservices, Open Source, etc.](https://dzone.com/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
 
