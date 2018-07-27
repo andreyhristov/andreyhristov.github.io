@@ -26,6 +26,10 @@ For a long time I have thought about collecting the links to the online material
   * Tags: GCP
 
 
+* [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
+  * How to move from microservices to a monolith when the burden of single-tenancy becomes way too big and costs too many resources to support
+  * Tags: Microservices, Monolith
+
 * [Title](link)
   * Description
   * Tags: 
