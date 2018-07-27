@@ -9,6 +9,7 @@ For a long time I have thought about collecting the links to the online material
 * [The Next Web - IT related news](https://thenextweb.com/)
 * [DZone - All things AI, Agile, BigData, Cloud, DevOps, IoT, Microservices, Open Source, etc.](https://dzone.com/)
 * [High Scalability - weekly collection of links on IT and HPC](http://highscalability.com/)
+* [DevOpsLinks - weekly collection of links on DevOps and Cloud computing](http://www.grnewsletters.com/archive/devopslinks)
 * [A Cloud guru - The community-sourced publication for cloud computing](https://read.acloud.guru/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
