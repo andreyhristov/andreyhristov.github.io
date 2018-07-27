@@ -8,6 +8,8 @@ For a long time I have thought about collecting the links to the online material
 * [The New Stack - All things Cloud, Docker, Kubernetes, Containers, Distributed Computing, Microservices ](https://thenewstack.io/)
 * [The Next Web - IT related news](https://thenextweb.com/)
 * [DZone - All things AI, Agile, BigData, Cloud, DevOps, IoT, Microservices, Open Source, etc.](https://dzone.com/)
+* [High Scalability - weekly collection of links on IT and HPC](http://highscalability.com/)
+* [A Cloud guru - The community-sourced publication for cloud computing](https://read.acloud.guru/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
 
@@ -39,11 +41,13 @@ For a long time I have thought about collecting the links to the online material
   * Quick but deep dive into Git and it's building blocks
   * Tags: Git 
 
+* [Generate Kubernetes YAML Right From Your App Code](https://dzone.com/articles/yaml-less-kubernetes)
+  * A new programming language, Ballerina, can compile into Docker and Kubernetes artifacts, letting you generate YAML from your microservices app code. 
+  * Tags: Docker, Kubernetes, YAML, Ballerina 
+
 * [Title](link)
   * Description
   * Tags: 
-
-
 
 * [Title](link)
   * Description
