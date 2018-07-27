@@ -34,9 +34,14 @@ For a long time I have thought about collecting the links to the online material
   * Long story short - use Git/VCS to store the configuration of your infrastructure. In other words use IaC - Infrastructure as Code and embed it in the development flow.
   * Tags: Git, IaC
 
+* [Git from zero to hero - starting with foundations](https://hackernoon.com/git-from-zero-to-hero-starting-with-foundations-e42e49b524c5)
+  * Quick but deep dive into Git and it's building blocks
+  * Tags: Git 
+
 * [Title](link)
   * Description
   * Tags: 
+
 
 
 * [Title](link)
