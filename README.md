@@ -16,12 +16,13 @@ For a long time I have thought about collecting the links to the online material
 ## 2018.07.30
 
 * [Video:Scale Kubernetes to Support 50,000 Services [I] - Haibin Xie & Quinton Hoole](https://www.youtube.com/watch?v=4-pawkiazEg)
-  * 
-  * Tags: Kubernetes, Scaling
+  * Lessons learnt from scaling K8s to 50k services
+  * Tags: Kubernetes
 
-* [Title](link)
-  * Description
-  * Tags: 
+
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+  * This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster.
+  * Tags: Kubernetes
 
 * [Title](link)
   * Description
