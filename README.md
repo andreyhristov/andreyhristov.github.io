@@ -47,10 +47,10 @@ For a long time I have thought about collecting the links to the online material
   * 
   * Tags: Kubernetes, Distributed
   
-* [Title](link)
-  * Description
-  * Tags:
-
+* [Scalable Node.js with Kubernetes and Google Kubernetes Engine](https://nodesource.com/blog/scalable-nodejs-with-kubernetes-and-google-kubernetes-engine/)
+  * An intro how to set up a simple 3 node K8s cluster running Node.js 'Helo world' on GCP with UI and from the command line
+  * Tags: Node.js, Kubernetes, GCP
+  
 * [Title](link)
   * Description
   * Tags:
