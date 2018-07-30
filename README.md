@@ -13,6 +13,19 @@ For a long time I have thought about collecting the links to the online material
 * [A Cloud guru - The community-sourced publication for cloud computing](https://read.acloud.guru/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
+## 2018.07.30
+
+* [Video:Scale Kubernetes to Support 50,000 Services [I] - Haibin Xie & Quinton Hoole](https://www.youtube.com/watch?v=4-pawkiazEg)
+  * 
+  * Tags: Kubernetes, Scaling
+
+* [Title](link)
+  * Description
+  * Tags: 
+
+* [Title](link)
+  * Description
+  * Tags:
 
 ## 2018.07.27
 
@@ -45,15 +58,6 @@ For a long time I have thought about collecting the links to the online material
 * [Generate Kubernetes YAML Right From Your App Code](https://dzone.com/articles/yaml-less-kubernetes)
   * A new programming language, Ballerina, can compile into Docker and Kubernetes artifacts, letting you generate YAML from your microservices app code. 
   * Tags: Docker, Kubernetes, YAML, Ballerina, IaC
-
-* [Title](link)
-  * Description
-  * Tags: 
-
-* [Title](link)
-  * Description
-  * Tags: 
-
 
 
 ## 2018.07.26
