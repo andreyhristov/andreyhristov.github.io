@@ -36,9 +36,10 @@ For a long time I have thought about collecting the links to the online material
   * Results from a survey by Serverless Inc.
   * Tags: Serverless
   
-* [Title](link)
-  * Description
-  * Tags:
+* [https://tech.trivago.com/2018/07/13/aws-kinesis-with-lambdas-lessons-learned/](https://tech.trivago.com/2018/07/13/aws-kinesis-with-lambdas-lessons-learned/)
+  * Trivago's experience with AWS Kinesis running Lambdas to process data. Fine tune your streams with a Dead-Letter Queue (if applicable), as well as fine tuning the memory requirements and invocation number.
+  * Tags: AWS, Kinesis, Lambda, Tuning
+
 * [Title](link)
   * Description
   * Tags:
