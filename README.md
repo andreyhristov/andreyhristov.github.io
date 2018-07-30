@@ -32,6 +32,19 @@ For a long time I have thought about collecting the links to the online material
   * An article on GIL, JIT and dynamic variables in Python and the different Python runtimes.
   * Tags: Python, Performance
 
+* [2018 Serverless Community Survey: huge growth in serverless usage](https://serverless.com/blog/2018-serverless-community-survey-huge-growth-usage/)
+  * Results from a survey by Serverless Inc.
+  * Tags: Serverless
+  
+* [Title](link)
+  * Description
+  * Tags:
+* [Title](link)
+  * Description
+  * Tags:
+* [Title](link)
+  * Description
+  * Tags:
 * [Title](link)
   * Description
   * Tags:
