@@ -51,6 +51,14 @@ For a long time I have thought about collecting the links to the online material
   * An intro how to set up a simple 3 node K8s cluster running Node.js 'Helo world' on GCP with UI and from the command line
   * Tags: Node.js, Kubernetes, GCP
   
+* [11 Ways (Not) to Get [Your K8s Cluster] Hacked](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
+  * 11 steps for securing your k8s installations
+  * Tags: Security, Kubernetes
+
+* [Title](link)
+  * Description
+  * Tags:
+
 * [Title](link)
   * Description
   * Tags:
