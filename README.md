@@ -55,9 +55,9 @@ For a long time I have thought about collecting the links to the online material
   * 11 steps for securing your k8s installations
   * Tags: Security, Kubernetes
 
-* [Title](link)
-  * Description
-  * Tags:
+* [Kubernetes: Cron Jobs](https://chrisshort.net/kubernetes-cron-jobs/)
+  * How to create simple cron job for a Kubernetes cluster
+  * Tags: Kubernetes, Cronjob
 
 * [Title](link)
   * Description
