@@ -24,6 +24,14 @@ For a long time I have thought about collecting the links to the online material
   * This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster.
   * Tags: Kubernetes
 
+* [Why Kubernetes Operators are a game changer](https://blog.couchbase.com/kubernetes-operators-game-changer/)
+  * Couchbase blog article on ephemeral/persistent volume storage and on K8s operators
+  * Tags: Kubernetes, Operators
+
+* [Title](link)
+  * Description
+  * Tags:
+
 * [Title](link)
   * Description
   * Tags:
