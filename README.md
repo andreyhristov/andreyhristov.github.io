@@ -28,9 +28,9 @@ For a long time I have thought about collecting the links to the online material
   * Couchbase blog article on ephemeral/persistent volume storage and on K8s operators
   * Tags: Kubernetes, Operators
 
-* [Title](link)
-  * Description
-  * Tags:
+* [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
+  * An article on GIL, JIT and dynamic variables in Python and the different Python runtimes.
+  * Tags: Python, Performance
 
 * [Title](link)
   * Description
