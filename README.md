@@ -43,9 +43,18 @@ For a long time I have thought about collecting the links to the online material
 * [Hacked serverless functions are a crypto-gold mine for miscreants](https://www.theregister.co.uk/2018/06/05/serverless_functions_crypto_mining/)
   * A look to how lambdas can be abused for from hackers
   * Tags: AWS, Lambda, Serverless
+* [How to deploy geographically distributed services on Kubernetes Engine with kubemci](https://cloudplatform.googleblog.com/2018/06/How-to-deploy-geographically-distributed-services-on-Kubernetes-Engine-with-kubemci.html)
+  * 
+  * Tags: Kubernetes, Distributed
+  
 * [Title](link)
   * Description
   * Tags:
+
+* [Title](link)
+  * Description
+  * Tags:
+
 * [Title](link)
   * Description
   * Tags:
