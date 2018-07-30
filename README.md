@@ -40,9 +40,9 @@ For a long time I have thought about collecting the links to the online material
   * Trivago's experience with AWS Kinesis running Lambdas to process data. Fine tune your streams with a Dead-Letter Queue (if applicable), as well as fine tuning the memory requirements and invocation number.
   * Tags: AWS, Kinesis, Lambda, Tuning
 
-* [Title](link)
-  * Description
-  * Tags:
+* [Hacked serverless functions are a crypto-gold mine for miscreants](https://www.theregister.co.uk/2018/06/05/serverless_functions_crypto_mining/)
+  * A look to how lambdas can be abused for from hackers
+  * Tags: AWS, Lambda, Serverless
 * [Title](link)
   * Description
   * Tags:
