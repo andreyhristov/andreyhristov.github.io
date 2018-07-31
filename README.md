@@ -20,6 +20,10 @@ For a long time I have thought about collecting the links to the online material
   * How to spawn K8s clusters when using CI, particularly Travis CI
   * Tags: Travis, Kubernetes, E2E Testing
 
+* [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+  * Classification of the different ways of testing software systems. From low to high level.
+  * Tags: Unit Testing, Contract Testing
+
 * [Title](link)
   * Description
   * Tags:
