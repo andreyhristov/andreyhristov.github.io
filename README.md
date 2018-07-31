@@ -28,6 +28,10 @@ For a long time I have thought about collecting the links to the online material
   * How could FaaS be used in the future. Free from HTTP dependencies.
   * Tags: FaaS, Serverless, Ports & Adapters Architecture.
 
+* [Docker Deployments using Terraform](https://medium.com/build-acl/docker-deployments-using-terraform-d2bf36ec7bdf)
+  * How to use Terraform for AWS ECS blue-green deployments
+  * Tags: Docker, AWS ECS, Deployment
+
 * [Title](link)
   * Description
   * Tags:
