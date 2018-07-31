@@ -13,12 +13,27 @@ For a long time I have thought about collecting the links to the online material
 * [A Cloud guru - The community-sourced publication for cloud computing](https://read.acloud.guru/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
+
+
+## 2018.07.31
+* [Spawning Kubernetes Clusters in CI for Integration and E2E tests](https://xmudrii.com/posts/spawn-kubernetes-ci/)
+  * How to spawn K8s clusters when using CI, particularly Travis CI
+  * Tags: Travis, Kubernetes, E2E Testing
+
+* [Title](link)
+  * Description
+  * Tags:
+
+* [Title](link)
+  * Description
+  * Tags:
+
+
 ## 2018.07.30
 
 * [Video:Scale Kubernetes to Support 50,000 Services [I] - Haibin Xie & Quinton Hoole](https://www.youtube.com/watch?v=4-pawkiazEg)
   * Lessons learnt from scaling K8s to 50k services
   * Tags: Kubernetes
-
 
 * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
   * This tutorial walks you through setting up Kubernetes the hard way. This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster.
@@ -58,14 +73,6 @@ For a long time I have thought about collecting the links to the online material
 * [Kubernetes: Cron Jobs](https://chrisshort.net/kubernetes-cron-jobs/)
   * How to create simple cron job for a Kubernetes cluster
   * Tags: Kubernetes, Cronjob
-
-* [Title](link)
-  * Description
-  * Tags:
-
-* [Title](link)
-  * Description
-  * Tags:
 
 ## 2018.07.27
 
