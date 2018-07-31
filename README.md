@@ -24,6 +24,10 @@ For a long time I have thought about collecting the links to the online material
   * Classification of the different ways of testing software systems. From low to high level.
   * Tags: Unit Testing, Contract Testing
 
+* [Functional Reactive Serverless Architecture](https://monospacedmonologues.com/2018/07/functional-reactive-serverless-architecture/)
+  * How could FaaS be used in the future. Free from HTTP dependencies.
+  * Tags: FaaS, Serverless, Ports & Adapters Architecture.
+
 * [Title](link)
   * Description
   * Tags:
