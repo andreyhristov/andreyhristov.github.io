@@ -13,6 +13,17 @@ For a long time I have thought about collecting the links to the online material
 * [A Cloud guru - The community-sourced publication for cloud computing](https://read.acloud.guru/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
+## 2018.08.01
+
+
+* [How to get Pluralsight 3 month subscription for free – 2018](https://inspiredhacker.com/get-pluralsight-3-month-subscription-free-2018/)
+  * The title says it all. Quick  way to get PS for free for 3 months 
+  * Tags: Pluralsight, VisualStudio
+
+* [Title](link)
+  * Description
+  * Tags:
+
 
 
 ## 2018.07.31
@@ -31,15 +42,6 @@ For a long time I have thought about collecting the links to the online material
 * [Docker Deployments using Terraform](https://medium.com/build-acl/docker-deployments-using-terraform-d2bf36ec7bdf)
   * How to use Terraform for AWS ECS blue-green deployments
   * Tags: Docker, AWS ECS, Terraform, Deployment
-
-* [Title](link)
-  * Description
-  * Tags:
-
-* [Title](link)
-  * Description
-  * Tags:
-
 
 ## 2018.07.30
 
