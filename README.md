@@ -13,17 +13,22 @@ For a long time I have thought about collecting the links to the online material
 * [A Cloud guru - The community-sourced publication for cloud computing](https://read.acloud.guru/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
-## 2018.08.01
+## 2018.08.02
 
-
-* [How to get Pluralsight 3 month subscription for free – 2018](https://inspiredhacker.com/get-pluralsight-3-month-subscription-free-2018/)
-  * The title says it all. Quick  way to get PS for free for 3 months 
-  * Tags: Pluralsight, VisualStudio
+* [The Free Stack - Running your application for free on AWS](http://p.agnihotry.com/post/the_free_stack_aws/)
+  * What you get for free in the 12 trial months of AWS membership and what will the same resources costs you after the trial (won't be much)
+  * Tags: AWS, CloudWatch, CloudFront, S3, Lambda, DynamoDB, ElastiCache
 
 * [Title](link)
   * Description
   * Tags:
 
+
+## 2018.08.01
+
+* [How to get Pluralsight 3 month subscription for free – 2018](https://inspiredhacker.com/get-pluralsight-3-month-subscription-free-2018/)
+  * The title says it all. Quick  way to get PS for free for 3 months 
+  * Tags: Pluralsight, VisualStudio
 
 
 ## 2018.07.31
