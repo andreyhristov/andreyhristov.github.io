@@ -14,14 +14,20 @@ For a long time I have thought about collecting the links to the online material
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
 ## 2018.08.02
+* [Video:Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
+  * How to use contract testing with PACT
+  * Tags: PACT, Contract Testing, Design by Contract
+
+* []()
+  * Description
+  * Tags: 
+
+## 2018.08.02
 
 * [The Free Stack - Running your application for free on AWS](http://p.agnihotry.com/post/the_free_stack_aws/)
   * What you get for free in the 12 trial months of AWS membership and what will the same resources costs you after the trial (won't be much)
   * Tags: AWS, CloudWatch, CloudFront, S3, Lambda, DynamoDB, ElastiCache
 
-* [Title](link)
-  * Description
-  * Tags:
 
 
 ## 2018.08.01
