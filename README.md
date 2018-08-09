@@ -13,14 +13,21 @@ For a long time I have thought about collecting the links to the online material
 * [A Cloud guru - The community-sourced publication for cloud computing](https://read.acloud.guru/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
-## 2018.08.03
-* [Video:Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
-  * How to use contract testing with PACT
-  * Tags: PACT, Contract Testing, Design by Contract
+
+## 2018.08.09
+* [Startup Survival Tip #1: Revenue is Your Biggest Lifeline!](https://st6.io/blog/sst1-revenue-is-your-biggest-lifeline/)
+  * In short, no cash, no company. Learn how to preserve and generate cash or die.
+  * Tags: 
 
 * []()
   * Description
   * Tags: 
+
+
+## 2018.08.03
+* [Video:Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
+  * How to use contract testing with PACT
+  * Tags: PACT, Contract Testing, Design by Contract
 
 ## 2018.08.02
 
