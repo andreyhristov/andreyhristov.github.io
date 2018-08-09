@@ -19,6 +19,10 @@ For a long time I have thought about collecting the links to the online material
   * In short, no cash, no company. Learn how to preserve and generate cash or die.
   * Tags: 
 
+* [When Should I Use Amazon Aurora and When Should I use RDS MySQL?](https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
+  * A blog article from Percona about the pros and cons of RDS MySQL and Aurora
+  * Tags: AWS, RDS, Aurora, MySQL
+  
 * []()
   * Description
   * Tags: 
