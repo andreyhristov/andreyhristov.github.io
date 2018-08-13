@@ -25,9 +25,9 @@ For a long time I have thought about collecting the links to the online material
 * [Basics of the Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
   * The basics of the Unix Philosophy. A must read for every software developer and software architect. More or less axioms in software development.
   * Tags: Unix Philosophy
-* []()
-  * Description
-  * Tags:
+* [The Principles of OOD](http://www.butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+  * SOLID, The Single Responsibility Principle, The Open Closed Principle, The Liskov Substitution Principle, The Interface Segregation Principle,  The Dependency Inversion Principle 	
+  * Tags: OOD, SOLID
 * []()
   * Description
   * Tags: 
