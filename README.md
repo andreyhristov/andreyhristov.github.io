@@ -13,10 +13,15 @@ For a long time I have thought about collecting the links to the online material
 * [A Cloud guru - The community-sourced publication for cloud computing](https://read.acloud.guru/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 
+
+
 ## 2018.08.13
 * [An adventure in sparse arrays](https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays)
   * Sparse arrays in JavaScript - tips and tricks
   * Tags: JavaScript, sparse, filter, map, foreach
+* [Threads in Node 10.5.0: a practical intro](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
+  * Intro to Worker Threads that were added to Node 10.5.0
+  * Tags: JavaSceipt, WorkedThread
 * []()
   * Description
   * Tags: 
