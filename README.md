@@ -22,10 +22,15 @@ For a long time I have thought about collecting the links to the online material
 * [Threads in Node 10.5.0: a practical intro](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
   * Intro to Worker Threads that were added to Node 10.5.0
   * Tags: JavaSceipt, WorkedThread
+* [Basics of the Unix Philosophy](http://www.faqs.org/docs/artu/ch01s06.html)
+  * The basics of the Unix Philosophy. A must read for every software developer and software architect. More or less axioms in software development.
+  * Tags: Unix Philosophy
+* []()
+  * Description
+  * Tags:
 * []()
   * Description
   * Tags: 
-
 
 
 ## 2018.08.09
