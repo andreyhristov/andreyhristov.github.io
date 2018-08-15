@@ -12,6 +12,7 @@ For a long time I have thought about collecting the links to the online material
 * [DevOpsLinks - weekly collection of links on DevOps and Cloud computing](http://www.grnewsletters.com/archive/devopslinks)
 * [A Cloud guru - The community-sourced publication for cloud computing](https://read.acloud.guru/)
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
+* [Goto Conferences - videos from goto; conferences](https://www.youtube.com/user/GotoConferences/videos)
 
 
 
