@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=AnZ0uTOerUI
   * Michael Feathers - Working Effectively with Legacy Code
   * Tags: Functional Programming, Soft Core - Hard Shell
 * [Monitoring Spring Boot applications with Prometheus, Grafana and Alert Manager](https://www.youtube.com/watch?v=US8UqEpywNg)
-  * How to monitor applications with Grafana, that sources it's data from Prometheus
+  * Quick intro into how to monitor applications with Grafana, that sources it's data from Prometheus
   * Tags: Prometheus, Grafana, Alerts
 * []()
   * Description
