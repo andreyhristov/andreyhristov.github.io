@@ -15,6 +15,19 @@ For a long time I have thought about collecting the links to the online material
 * [Goto Conferences - videos from goto; conferences](https://www.youtube.com/user/GotoConferences/videos)
 
 
+https://www.youtube.com/watch?v=AnZ0uTOerUI
+
+## 2018.08.15
+* [GOTO 2018 • Unconditional Code • Michael Feathers](https://www.youtube.com/watch?v=AnZ0uTOerUI)
+  * Michael Feathers - Working Effectively with Legacy Code
+  * Tags: Functional Programming, Soft Core - Hard Shell
+* [Monitoring Spring Boot applications with Prometheus, Grafana and Alert Manager](https://www.youtube.com/watch?v=US8UqEpywNg)
+  * How to monitor applications with Grafana, that sources it's data from Prometheus
+  * Tags: Prometheus, Grafana, Alerts
+* []()
+  * Description
+  * Tags: 
+
 
 ## 2018.08.13
 * [An adventure in sparse arrays](https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays)
@@ -29,9 +42,6 @@ For a long time I have thought about collecting the links to the online material
 * [The Principles of OOD](http://www.butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
   * SOLID, The Single Responsibility Principle, The Open Closed Principle, The Liskov Substitution Principle, The Interface Segregation Principle,  The Dependency Inversion Principle 	
   * Tags: OOD, SOLID
-* []()
-  * Description
-  * Tags: 
 
 
 ## 2018.08.09
