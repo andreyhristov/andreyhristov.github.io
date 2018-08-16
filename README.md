@@ -21,6 +21,9 @@ For a long time I have thought about collecting the links to the online material
 * [Video/German/Non-IT : Warum wir alles verlieren werden – Banken-Insider verrät die Gründe](https://www.youtube.com/watch?v=zXPEPzg3eSg)
   * The next eurozone crisis is coming and it will be worse than the previous one
   * Tags: ECB, Euro, Crisis, Target2, Default
+* [Video : GOTO 2018 • Dynamic Non-Events • Adrian Cockcroft](https://www.youtube.com/watch?v=mFQRn_m2mP4)
+  * Snmall drifts, which in itself cause imminently nothing wrong lead to problems and failure.
+  * Tags: Safety, Failure, Chaos Engineering
 * []()
   * Description
   * Tags: 
