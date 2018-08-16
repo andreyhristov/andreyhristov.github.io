@@ -24,6 +24,12 @@ For a long time I have thought about collecting the links to the online material
 * [Video : GOTO 2018 • Dynamic Non-Events • Adrian Cockcroft](https://www.youtube.com/watch?v=mFQRn_m2mP4)
   * Snmall drifts, which in itself cause imminently nothing wrong lead to problems and failure.
   * Tags: Safety, Failure, Chaos Engineering
+* [Amazon AWS EKS and RDS PostgreSQL With Terraform ](https://dzone.com/articles/amazon-aws-eks-and-rds-postgresql-with-terraform-i)
+  * A tutorial how to setup with Terraform and tear down an AWS EKS setup that uses PgSQL RDS
+  * Tags: AWS, EKS, Terraform, RDS
+* [Google GKE and SQL With Terraform](https://dzone.com/articles/google-gke-and-sql-with-terraform-ion-medium)
+  * A tutorial how to setup with Terraform GKE and CloudSQL
+  * Tags: 
 * []()
   * Description
   * Tags: 
