@@ -63,7 +63,7 @@ For a long time I have thought about collecting the links to the online material
 
 
 ## 2018.08.03
-* [Video:Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
+* [Video : Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
   * How to use contract testing with PACT
   * Tags: PACT, Contract Testing, Design by Contract
 
