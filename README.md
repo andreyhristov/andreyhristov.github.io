@@ -14,8 +14,14 @@ For a long time I have thought about collecting the links to the online material
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 * [Goto Conferences - videos from goto; conferences](https://www.youtube.com/user/GotoConferences/videos)
 
+## 2018.08.16
+* [GOTO 2018 • Old Is the New New • Kevlin Henney](https://www.youtube.com/watch?v=AbgsfeGvg3E)
+  * Much of what we call new paradigms in computing is actually pretty old. The wheel is rotating and we are "reinventing" it.
+  * Tags: Spiral model
+* []()
+  * Description
+  * Tags: 
 
-https://www.youtube.com/watch?v=AnZ0uTOerUI
 
 ## 2018.08.15
 * [GOTO 2018 • Unconditional Code • Michael Feathers](https://www.youtube.com/watch?v=AnZ0uTOerUI)
@@ -23,11 +29,7 @@ https://www.youtube.com/watch?v=AnZ0uTOerUI
   * Tags: Functional Programming, Soft Core - Hard Shell
 * [Monitoring Spring Boot applications with Prometheus, Grafana and Alert Manager](https://www.youtube.com/watch?v=US8UqEpywNg)
   * Quick intro into how to monitor applications with Grafana, that sources it's data from Prometheus
-  * Tags: Prometheus, Grafana, Alerts
-* []()
-  * Description
-  * Tags: 
-
+  * Tags: Prometheus, Grafana, Alert
 
 ## 2018.08.13
 * [An adventure in sparse arrays](https://remysharp.com/2018/06/26/an-adventure-in-sparse-arrays)
