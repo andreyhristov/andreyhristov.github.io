@@ -18,10 +18,12 @@ For a long time I have thought about collecting the links to the online material
 * [GOTO 2018 • Old Is the New New • Kevlin Henney](https://www.youtube.com/watch?v=AbgsfeGvg3E)
   * Much of what we call new paradigms in computing is actually pretty old. The wheel is rotating and we are "reinventing" it.
   * Tags: Spiral model
+* [Video/German/Non-IT : Warum wir alles verlieren werden – Banken-Insider verrät die Gründe](https://www.youtube.com/watch?v=zXPEPzg3eSg)
+  * The next eurozone crisis is coming and it will be worse than the previous one
+  * Tags: ECB, Euro, Crisis, Target2, Default
 * []()
   * Description
   * Tags: 
-
 
 ## 2018.08.15
 * [GOTO 2018 • Unconditional Code • Michael Feathers](https://www.youtube.com/watch?v=AnZ0uTOerUI)
