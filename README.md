@@ -15,7 +15,7 @@ For a long time I have thought about collecting the links to the online material
 * [Goto Conferences - videos from goto; conferences](https://www.youtube.com/user/GotoConferences/videos)
 
 ## 2018.08.16
-* [GOTO 2018 • Old Is the New New • Kevlin Henney](https://www.youtube.com/watch?v=AbgsfeGvg3E)
+* [Video : GOTO 2018 • Old Is the New New • Kevlin Henney](https://www.youtube.com/watch?v=AbgsfeGvg3E)
   * Much of what we call new paradigms in computing is actually pretty old. The wheel is rotating and we are "reinventing" it.
   * Tags: Spiral model
 * [Video/German/Non-IT : Warum wir alles verlieren werden – Banken-Insider verrät die Gründe](https://www.youtube.com/watch?v=zXPEPzg3eSg)
@@ -26,7 +26,7 @@ For a long time I have thought about collecting the links to the online material
   * Tags: 
 
 ## 2018.08.15
-* [GOTO 2018 • Unconditional Code • Michael Feathers](https://www.youtube.com/watch?v=AnZ0uTOerUI)
+* [Video : GOTO 2018 • Unconditional Code • Michael Feathers](https://www.youtube.com/watch?v=AnZ0uTOerUI)
   * Michael Feathers - Working Effectively with Legacy Code
   * Tags: Functional Programming, Soft Core - Hard Shell
 * [Monitoring Spring Boot applications with Prometheus, Grafana and Alert Manager](https://www.youtube.com/watch?v=US8UqEpywNg)
