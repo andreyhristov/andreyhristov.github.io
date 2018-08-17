@@ -25,9 +25,9 @@ For a long time I have thought about collecting the links to the online material
 * [Building Optimized Containers for Kubernetes](https://www.digitalocean.com/community/tutorials/building-optimized-containers-for-kubernetes)
   * What to do to have containers that are clean and optimized (not only for Kubernetes). Multstage builds. Pod Patterns (Sidecar, Ambassador, Adaptor)
   * Tags: Docker, Container, Kubernetes, Best Practices, Multistage Build, Sidecar, Ambassador, Adaptor
-* []()
-  * Description
-  * Tags: 
+* [Video : i3 - An Improved Tiling Window Manager](https://www.youtube.com/watch?v=QnYN2CTb1hM)
+  * Intro to i3, a minimalistic window manager built for tiled windows, not for floating windows. A WM for power users, heavy keyboard users.
+  * Tags: i3, Window Manager, Tiled Windows
 * []()
   * Description
   * Tags: 
