@@ -22,6 +22,12 @@ For a long time I have thought about collecting the links to the online material
 * [Patterns for Resilient Architecture — Part 2, The art of avoiding cascading failures](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-2-9b51a7e2f10f)
   * A blog post regarding strategies to avoid cascading failures. Read-only modes, TTL, Circuit Breaking
   * Tags: Cascading Failure, Circuit breaking
+* [Building Optimized Containers for Kubernetes](https://www.digitalocean.com/community/tutorials/building-optimized-containers-for-kubernetes)
+  * What to do to have containers that are clean and optimized (not only for Kubernetes). Multstage builds. Pod Patterns (Sidecar, Ambassador, Adaptor)
+  * Tags: Docker, Container, Kubernetes, Best Practices, Multistage Build, Sidecar, Ambassador, Adaptor
+* []()
+  * Description
+  * Tags: 
 * []()
   * Description
   * Tags: 
@@ -47,9 +53,6 @@ For a long time I have thought about collecting the links to the online material
 * [M3: Uber’s Open Source, Large-scale Metrics Platform for Prometheus](https://eng.uber.com/m3/)
   * Highly scalable time series platform for Prometheus
   * Tags: Uber, Prometheus, M3
-* []()
-  * Description
-  * Tags: 
 
 ## 2018.08.15
 * [Video : GOTO 2018 • Unconditional Code • Michael Feathers](https://www.youtube.com/watch?v=AnZ0uTOerUI)
