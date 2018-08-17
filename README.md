@@ -14,6 +14,20 @@ For a long time I have thought about collecting the links to the online material
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 * [Goto Conferences - videos from goto; conferences](https://www.youtube.com/user/GotoConferences/videos)
 
+
+## 2018.08.17
+* [Patterns for Resilient Architecture — Part 1, The story of embracing failure at scale](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-1-d3b60cd8d2b6)
+  * A blog post regarding what are the patterns about scalable and resilient architectures. Specifically what to do when using AWS and how to achieve (at least in theory) 6 nines.
+  * Tags: AWS, Golden AMI, Docker, Canary Deployments
+* [Patterns for Resilient Architecture — Part 2, The art of avoiding cascading failures](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-2-9b51a7e2f10f)
+  * A blog post regarding strategies to avoid cascading failures. Read-only modes, TTL, Circuit Breaking
+  * Tags: Cascading Failure, Circuit breaking
+* []()
+  * Description
+  * Tags: 
+
+
+
 ## 2018.08.16
 * [Video : GOTO 2018 • Old Is the New New • Kevlin Henney](https://www.youtube.com/watch?v=AbgsfeGvg3E)
   * Much of what we call new paradigms in computing is actually pretty old. The wheel is rotating and we are "reinventing" it.
