@@ -44,6 +44,9 @@ For a long time I have thought about collecting the links to the online material
 * [Google GKE and SQL With Terraform](https://dzone.com/articles/google-gke-and-sql-with-terraform-ion-medium)
   * A tutorial how to setup (non-secure and non-prod-ready) with Terraform GKE and CloudSQL
   * Tags: 
+* [M3: Uber’s Open Source, Large-scale Metrics Platform for Prometheus](https://eng.uber.com/m3/)
+  * Highly scalable time series platform for Prometheus
+  * Tags: Uber, Prometheus, M3
 * []()
   * Description
   * Tags: 
