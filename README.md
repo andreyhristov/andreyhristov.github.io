@@ -18,6 +18,9 @@ For a long time I have thought about collecting the links to the online material
 * [Comprehensive Guide to Serverless Go with AWS Lambda](https://ednsquare.com/publisher/view/Comprehensive-Guide-to-Serverless-Go-with-Examples-------INVKFHiCAq)
   * Really comprehensive introduction to serverless/FaaS with comparison of the offerings of the largest cloud providers. In addition, an intro to the Serverless framework followed by a quick introduction to Golang.
   * Tags: AWS, GCP, Serverless, Golang
+* [Serverless Streaming Architectures and Best Practices](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf)
+  * Quite large whitepaper (47 pages long) regarding architecture of streaming apps on AWS
+  * Tags: AWS, Streaming, Kinesis, Redshift
 * []()
   * Description
   * Tags: 
