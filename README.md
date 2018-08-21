@@ -21,6 +21,15 @@ For a long time I have thought about collecting the links to the online material
 * [Serverless Streaming Architectures and Best Practices](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf)
   * Quite large whitepaper (47 pages long) regarding architecture of streaming apps on AWS
   * Tags: AWS, Streaming, Kinesis, Redshift
+* [VIDEO : GOTO 2018 • The Robustness of Go • Francesc Campoy](https://www.youtube.com/watch?v=40d26ZGfhR8)
+  * An overview talk about Golang and the robustness of the language
+  * Tags: Golang, Robust
+* [VIDEO : GopherCon 2016: Rob Pike - The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA)
+  * Rob Pike talks about the early and the current architecture of the Go ASM. What has happened and why it is pretty easy to add a new architecture and also very easy to cross-compile Golang.
+  * Tags: Go, Golang, Cross Compile, Assembler
+* [VIDEO : GopherCon 2016: Dave Cheney - Dont Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
+  * Dave Cheney on how to handle errors in Golang programms
+  * Tags: Golang, Error Handling
 * []()
   * Description
   * Tags: 
