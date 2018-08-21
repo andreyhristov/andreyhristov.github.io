@@ -33,10 +33,12 @@ For a long time I have thought about collecting the links to the online material
 * [VIDEO : Building Go Applications for the Open Cloud (Cloud Next '18)](https://www.youtube.com/watch?v=_2ZwhvIkgek)
   * A short presentation about [Go-cloud](https://github.com/google/go-cloud), an abstraction layer for Golang for some cloud services of AWS, GCP, etc - BLOB storage, Runtime Configurarion, MySQL DB Access, Request Logging, Health Checkin, and Tracing
   * Tags: AWS, GCP, Golang, Open Cloud
+* [Top 10 Linux Job Interview Questions](https://www.youtube.com/watch?v=l0QGLMwR-lY)
+  * Quick intro to `uname -a`, `df -sh`, `service` / `systemctl`, `netstat`, `top` / `htop`, `mount`, etc. 
+  * Tags: Linux commands
 * []()
   * Description
   * Tags: 
-
 
 
 ## 2018.08.17
