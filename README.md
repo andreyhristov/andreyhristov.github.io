@@ -14,6 +14,15 @@ For a long time I have thought about collecting the links to the online material
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 * [Goto Conferences - videos from goto; conferences](https://www.youtube.com/user/GotoConferences/videos)
 
+## 2018.08.21
+* [Comprehensive Guide to Serverless Go with AWS Lambda](https://ednsquare.com/publisher/view/Comprehensive-Guide-to-Serverless-Go-with-Examples-------INVKFHiCAq)
+  * Really comprehensive introduction to serverless/FaaS with comparison of the offerings of the largest cloud providers. In addition, an intro to the Serverless framework followed by a quick introduction to Golang.
+  * Tags: AWS, GCP, Serverless, Golang
+* []()
+  * Description
+  * Tags: 
+
+
 
 ## 2018.08.17
 * [Patterns for Resilient Architecture — Part 1, The story of embracing failure at scale](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-1-d3b60cd8d2b6)
@@ -28,9 +37,6 @@ For a long time I have thought about collecting the links to the online material
 * [Video : i3 - An Improved Tiling Window Manager](https://www.youtube.com/watch?v=QnYN2CTb1hM)
   * Intro to i3, a minimalistic window manager built for tiled windows, not for floating windows. A WM for power users, heavy keyboard users.
   * Tags: i3, Window Manager, Tiled Windows
-* []()
-  * Description
-  * Tags: 
 
 
 
