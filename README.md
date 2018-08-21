@@ -30,6 +30,9 @@ For a long time I have thought about collecting the links to the online material
 * [VIDEO : GopherCon 2016: Dave Cheney - Dont Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
   * Dave Cheney on how to handle errors in Golang programms
   * Tags: Golang, Error Handling
+* [VIDEO : Building Go Applications for the Open Cloud (Cloud Next '18)](https://www.youtube.com/watch?v=_2ZwhvIkgek)
+  * A short presentation about (Go-cloud)[https://github.com/google/go-cloud], an abstraction layer for Golang for some cloud services of AWS, GCP, etc - BLOB storage, Runtime Configurarion, MySQL DB Access, Request Logging, Health Checkin, and Tracing
+  * Tags: AWS, GCP, Golang, Open Cloud
 * []()
   * Description
   * Tags: 
