@@ -14,6 +14,15 @@ For a long time I have thought about collecting the links to the online material
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 * [Goto Conferences - videos from goto; conferences](https://www.youtube.com/user/GotoConferences/videos)
 
+## 2018.08.22
+* [VIDEO : Introduction to Memory Management in Linux by Alan Ott](https://www.youtube.com/watch?v=EWwfMM2AW9g)
+  * A deep dive into the memory management of Linux, from hardware and software PoV, on 32 and 64 bit.
+  * Tags: Linux, Memory Management, MMU, Page Fault
+* []()
+  * Description
+  * Tags: 
+
+
 ## 2018.08.21
 * [Comprehensive Guide to Serverless Go with AWS Lambda](https://ednsquare.com/publisher/view/Comprehensive-Guide-to-Serverless-Go-with-Examples-------INVKFHiCAq)
   * Really comprehensive introduction to serverless/FaaS with comparison of the offerings of the largest cloud providers. In addition, an intro to the Serverless framework followed by a quick introduction to Golang.
@@ -36,10 +45,6 @@ For a long time I have thought about collecting the links to the online material
 * [Top 10 Linux Job Interview Questions](https://www.youtube.com/watch?v=l0QGLMwR-lY)
   * Quick intro to `uname -a`, `df -sh`, `service` / `systemctl`, `netstat`, `top` / `htop`, `mount`, etc. 
   * Tags: Linux commands
-* []()
-  * Description
-  * Tags: 
-
 
 ## 2018.08.17
 * [Patterns for Resilient Architecture — Part 1, The story of embracing failure at scale](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-1-d3b60cd8d2b6)
