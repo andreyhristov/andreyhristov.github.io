@@ -14,13 +14,20 @@ For a long time I have thought about collecting the links to the online material
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 * [Goto Conferences - videos from goto; conferences](https://www.youtube.com/user/GotoConferences/videos)
 
+
+# 2018.08.23
+* [VIDEO : Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
+  * Linus Torvalds explains why Git is what is it and why he would never ever use a non-distributed SCM
+  * Tags: Linus Torvals, Git
+* []()
+  * Description
+  * Tags: 
+
+
 ## 2018.08.22
 * [VIDEO : Introduction to Memory Management in Linux by Alan Ott](https://www.youtube.com/watch?v=EWwfMM2AW9g)
   * A deep dive into the memory management of Linux, from hardware and software PoV, on 32 and 64 bit.
   * Tags: Linux, Memory Management, MMU, Page Fault
-* []()
-  * Description
-  * Tags: 
 
 
 ## 2018.08.21
