@@ -18,7 +18,7 @@ For a long time I have thought about collecting the links to the online material
 # 2018.08.23
 * [VIDEO : Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
   * Linus Torvalds explains why Git is what is it and why he would never ever use a non-distributed SCM
-  * Tags: Linus Torvals, Git
+  * Tags: Linus Torvalds, Git
 * []()
   * Description
   * Tags: 
