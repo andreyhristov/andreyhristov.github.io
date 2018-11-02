@@ -14,6 +14,15 @@ For a long time I have thought about collecting the links to the online material
 * [Nick Janetakis' (a Docker Captain) Tips and Tricks on Docker](https://nickjanetakis.com/blog/tag/docker-tips-tricks-and-tutorials)
 * [Goto Conferences - videos from goto; conferences](https://www.youtube.com/user/GotoConferences/videos)
 
+
+## 2018.10.31
+* [AWS Lambda Programming Language Comparison](https://blog.epsagon.com/aws-lambda-programming-language-comparison)
+  * The title says it all
+  * Tags: AWS, Lambda, Performance, Cold start, Warm Start, Node.js, Golang, C#, Java
+* []()
+  * Description
+  * Tags:
+
 ## 2018.09.03
 * [The real power of Linux executables](https://ownyourbits.com/2018/05/23/the-real-power-of-linux-executables/)
   * A deep dive into the "execution" of programs in the Linux kernel. They are actually partially interpretables.
